@@ -8,7 +8,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 ## How-To
 
 **Prerequisites**
-To run the Confluence Knowledge Assistant with an MCP connection, you need:
+To run the Confluence Knowledge Assistant notebook with an MCP connection, you need:
 
 * Python 3.13
 * JupyterLab (installed inside a venv) or you can use the public one at [Jupyter Lab](https://jupyter.org/try-jupyter/lab/).
