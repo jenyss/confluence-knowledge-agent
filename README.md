@@ -5,9 +5,6 @@ _**Powered by Google ADK & Atlassian MCP**_
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
-## How It Works
-TODO
-
 ## How-To
 
 **Prerequisites**
@@ -18,5 +15,5 @@ To run the Confluence Knowledge Assistant with an MCP connection, you need:
 * Node.js - includes npx, which is used to launch the MCP client (mcp-remote) on the fly without a global install.
 * Access to the Atlassian MCP endpoint: https://mcp.atlassian.com/v1/sse
 
-You can run this notebook in [Jupyter Lab](https://jupyter.org/try-jupyter/lab/) or in Jupyter Lab locally.
+You can run this notebook in [Jupyter Lab](https://jupyter.org/try-jupyter/lab/) or in your local Jupyter Lab.
 
