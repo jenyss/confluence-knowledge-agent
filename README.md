@@ -18,3 +18,5 @@ To run the Confluence Knowledge Assistant with an MCP connection, you need:
 * Node.js - includes npx, which is used to launch the MCP client (mcp-remote) on the fly without a global install.
 * Access to the Atlassian MCP endpoint: https://mcp.atlassian.com/v1/sse
 
+Run in [Jupyter Lab](https://jupyter.org/try-jupyter/lab/)
+
