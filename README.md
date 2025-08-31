@@ -16,3 +16,4 @@ To run the Confluence Knowledge Assistant notebook with an MCP connection, you n
 * Access to the Atlassian MCP endpoint: https://mcp.atlassian.com/v1/sse and permissions to read Confluence content.
 
 
+
