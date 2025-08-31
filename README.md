@@ -10,8 +10,8 @@ If you have any questions or would like to collaborate, feel free to reach out t
 **Prerequisites**
 To run the Confluence Knowledge Assistant with an MCP connection, you need:
 
-* Python 3.13 with a virtual environment (venv).
-* JupyterLab (installed inside the venv) or you can use the public one at [Jupyter Lab](https://jupyter.org/try-jupyter/lab/).
+* Python 3.13
+* JupyterLab (installed inside a venv) or you can use the public one at [Jupyter Lab](https://jupyter.org/try-jupyter/lab/).
 * Node.js - includes npx, which is used to launch the MCP client (mcp-remote) on the fly without a global install.
 * Access to the Atlassian MCP endpoint: https://mcp.atlassian.com/v1/sse
 
