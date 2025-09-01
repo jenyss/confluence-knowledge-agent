@@ -13,6 +13,7 @@ https://img.shields.io/badge/Article-RAG%20vs%20MCP-blue
 
 [![Read on LinkedIn](https://img.shields.io/badge/RAG%20vs%20MCP-Article-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/another-rag-vs-mcp-article-jenya-stoeva-tpxhf)
 
+[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Article-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/another-rag-vs-mcp-article-jenya-stoeva-tpxhf)
 
 
 
