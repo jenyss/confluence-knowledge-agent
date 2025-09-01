@@ -9,6 +9,9 @@ _**Powered by Google ADK & Atlassian MCP**_
 https://img.shields.io/badge/Article-RAG%20vs%20MCP-blue
 )](https://www.linkedin.com/pulse/another-rag-vs-mcp-article-jenya-stoeva-tpxhf)
 
+[![Read on LinkedIn](https://img.shields.io/badge/Article-RAG%20vs%20MCP-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/another-rag-vs-mcp-article-jenya-stoeva-tpxhf)
+
+
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
