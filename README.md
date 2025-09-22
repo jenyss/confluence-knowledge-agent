@@ -10,7 +10,7 @@ _**Powered by Google ADK & Atlassian MCP**_
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
-## How-To 
+## How-To
 
 **Prerequisites**
 To run the Confluence Knowledge Assistant notebook with an MCP connection, you need:
