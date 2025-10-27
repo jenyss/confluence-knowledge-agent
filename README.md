@@ -1,4 +1,4 @@
-# Confluence Knowledge Assistant
+# AI Agent to Chat with Confluence Documentation
 _**Powered by Google ADK & Atlassian MCP**_
 
 **This agent lets you chat naturally with Confluence-based product documentation or other information stored in Confluence and can be embedded in your product.** It reads a Markdown index file (containing page summaries, titles, IDs, and links) once, stores it in the tool context state, and uses it to look up the most relevant Confluence pages. In this example, it generates accurate answers using the Marmind Knowledge Base space in Confluence, while guiding the user to the mirrored page in the publicly available documentation - [Marmind Knowledge Base](https://knowledgebase.marmind.com/kb/)
